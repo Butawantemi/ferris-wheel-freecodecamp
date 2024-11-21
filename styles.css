@@ -7,10 +7,10 @@
     width: 55vw;
     max-width: 500px;
     max-height: 500px;
-  }
-  
-  .line {
+}
+
+.line {
     background-color: black;
     width: 50%;
     height: 2px;
-  }
+}
